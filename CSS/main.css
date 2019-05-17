@@ -1,0 +1,13 @@
+img {
+    width: 20%;
+}
+
+body {
+    margin-top: 160px;
+    background-image: linear-gradient(pink, blanchedalmond);
+    text-align: center;
+}
+
+#message {
+    font-family: Georgia, serif;
+}
